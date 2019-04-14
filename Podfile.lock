@@ -1,0 +1,16 @@
+PODS:
+  - konashi-ios-sdk (5.0.1)
+
+DEPENDENCIES:
+  - konashi-ios-sdk
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - konashi-ios-sdk
+
+SPEC CHECKSUMS:
+  konashi-ios-sdk: 959ad0dd7f481b19bebbf996c5afe8ad52c3c3c4
+
+PODFILE CHECKSUM: aadfa0771c8afb7580a76239415fc81422204a3b
+
+COCOAPODS: 1.6.1
